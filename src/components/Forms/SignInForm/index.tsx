@@ -26,7 +26,12 @@ export function SignInForm() {
       .finally(() => setIsLoading(false));
   }
 
-  function handleForgotPassword() {}
+  function handleForgotPassword() {
+    auth()
+      .sendPasswordResetEmail(email)
+      .then(() => Alert.alert("Rededinir senha", "Enviamos um email para você"))
+      .catch((error) => console.log(error));
+  }
 
   return (
     <Form>
