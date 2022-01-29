@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103763379476",
+    "project_id": "helpdesk-cc371",
+    "storage_bucket": "helpdesk-cc371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103763379476:android:03a8538d761a0c0f2e6e01",
+        "android_client_info": {
+          "package_name": "com.helpdesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103763379476-ahpse1d7ke37uf44ppa2mnkip6uh52u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa4FDygY_jpAHHggnYmsV_4CwWeAFllKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103763379476-ahpse1d7ke37uf44ppa2mnkip6uh52u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
